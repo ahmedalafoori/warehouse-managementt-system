@@ -4,6 +4,8 @@ The warehouse management system is a system that was programmed using PHP for th
 
 
 The warehouse management system is a system that has been programmed for the purpose of managing stores and the products inside them, as well as for managing sales, maintaining their reports, and calculating profits on each sale that is made and recorded in the system by calculating the difference between the purchase price and the selling price at which the product was sold. The system is up and running.
+
+
 ![2-3-1024x311](https://user-images.githubusercontent.com/111537629/192330101-cde4f5b3-9113-4734-bc56-7db3388915c1.png)
 ![1-2-768x285](https://user-images.githubusercontent.com/111537629/192330113-3085b85e-b685-4463-bade-20e3d0472817.png)
 ![5-3-768x299](https://user-images.githubusercontent.com/111537629/192330120-3074e96c-8c16-4fa7-9582-dfffed936a9a.png)
@@ -12,10 +14,10 @@ The warehouse management system is a system that has been programmed for the pur
 
 
 
-Features of warehouse management system
-Adding and removing users
-Add and delete product images
-Add and delete an unlimited number of categories of product types
-Add and delete an unlimited number of products
-Adding and deleting sales from stock products
-Search for monthly and daily sales process or from a specific date
+Features of warehouse management system:
+1- Adding and removing users
+2- Add and delete product images
+3- Add and delete an unlimited number of categories of product types
+4- Add and delete an unlimited number of products
+5- Adding and deleting sales from stock products
+6- Search for monthly and daily sales process or from a specific date
