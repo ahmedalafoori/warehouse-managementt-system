@@ -15,6 +15,7 @@ The warehouse management system is a system that has been programmed for the pur
 
 
 Features of warehouse management system:
+
 1- Adding and removing users
 
 2- Add and delete product images
