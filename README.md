@@ -16,8 +16,13 @@ The warehouse management system is a system that has been programmed for the pur
 
 Features of warehouse management system:
 1- Adding and removing users
+
 2- Add and delete product images
+
 3- Add and delete an unlimited number of categories of product types
+
 4- Add and delete an unlimited number of products
+
 5- Adding and deleting sales from stock products
+
 6- Search for monthly and daily sales process or from a specific date
