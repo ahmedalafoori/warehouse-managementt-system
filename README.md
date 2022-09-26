@@ -27,3 +27,19 @@ Features of warehouse management system:
 5- Adding and deleting sales from stock products
 
 6- Search for monthly and daily sales process or from a specific date
+
+
+
+
+Running a warehouse management system
+First of all, download the XAMPP program to be able to run the system and work on it.
+
+1- Download the project from the link below
+2- Unzip and extract the files
+3- Move the existing file to XAMPP files and add it to the htdocs folder
+5- Log in to phpmyadmin and create a new database named inventory_system
+After clicking on the word import and import the existing database folder that you downloaded earlier
+After importing the database, open a new tab and type http://localhost/invo
+Login information to the system is below the article:
+Username: admin
+Password: admin
