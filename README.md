@@ -46,4 +46,5 @@ After importing the database, open a new tab and type http://localhost/invo
 Login information to the system is below the article:
 
 Username: admin
+
 Password: admin
